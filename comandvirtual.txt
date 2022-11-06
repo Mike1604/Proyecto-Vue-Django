@@ -1,0 +1,2 @@
+.\enviroment_3_8_2\Scripts\activate
+56.17
